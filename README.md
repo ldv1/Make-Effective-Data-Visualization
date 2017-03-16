@@ -5,6 +5,9 @@ This is the final visualization of my project in
 ## Usage
 The story begins [here](http://bl.ocks.org/ldv1/raw/a141c9aefe38edfc6dd9f706a7c1efaa/).
 
+## Code
+All files can be found at this [gist](https://gist.github.com/ldv1/a141c9aefe38edfc6dd9f706a7c1efaa).
+
 ## Issues
 Any non-ancient browser should render it properly but it is best viewed in Chromium.
 
